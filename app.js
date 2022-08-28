@@ -6,7 +6,6 @@ const fs = require('fs');
 const wa = require('@open-wa/wa-automate');
 const dialogflow = require('@google-cloud/dialogflow');
 const {fileToBase64} = require('file-base64');
-const imageDataURI = require('image-data-uri');
 const path = require('path');
 const moment = require('moment');
 const { initializeApp, applicationDefault, cert } = require('firebase-admin/app');
@@ -103,17 +102,8 @@ ON_DEATH(async function() {
                 for (let index = 0; index < resp.length; index++) {
                   const element = resp[index];
                   if(element.image){
-                    imageDataURI
-                        .encodeFromURL(element.image.imageUri)
-                        .then(async(resp2) => {
-                            await client.sendImage(msgNum, resp2, 'filename.jpeg', `*${element.text.text[0]}*\n`)
-                            
-
-                        })
-                        .catch((err1) => {
-                            console.log('failed to send img')
-                        })
-                    
+                    await client.sendImage(msgNum, element.image.imageUri, 'filename.jpeg', `*${element.text.text[0]}*\n`)
+                     
                   }else if(element.payload){
                     let type = element.payload.fields.type.stringValue
                     if(type === 'video'){
