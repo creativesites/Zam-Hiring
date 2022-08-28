@@ -1,0 +1,2204 @@
+[
+    {
+        "responseId": "746b0cfd-badd-4f1b-9ae1-3efe78b3b366-0cab8cdb",
+        "queryResult": {
+            "fulfillmentMessages": [
+                {
+                    "platform": "PLATFORM_UNSPECIFIED",
+                    "payload": {
+                        "fields": {
+                            "jobs": {
+                                "listValue": {
+                                    "values": [
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "email": {
+                                                        "stringValue": "https://www.airtel.co.zm/career_position",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Airtel Zambia",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Airtel Zambia- Digital Technology Graduate Trainees",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "AirtelZambia-DigitalTechnologyGraduateTrainees",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Digital Technology Graduate Trainees",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "Airtel is looking for high-achieving graduates to join us in...",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "title": {
+                                                        "stringValue": "Executive Secretary",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "Bizbwana",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Civil Service Commission - Zambia",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Civil Service Commission - Zambia- Executive Secretary",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "Job DescriptionCIVIL SERVICE COMMISSIONP.O. Box 50138LUSAKACSC/53/1/54Date: 23 August, 2022CIVIL SERVICE...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "CivilServiceCommission-Zambia-ExecutiveSecretary",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "excerpt": {
+                                                        "stringValue": "Job DescriptionCoca-Cola Beverages Zambia represents the world’s most cherished trademark...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Commercial Graduate Trainee",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "https://ccba.erecruit.co/candidateapp/Jobs/View/CCB220824-1",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Coca-Cola Beverages Zambia",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Coca-Cola Beverages Zambia- Commercial Graduate Trainee",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "Coca-ColaBeveragesZambia-CommercialGraduateTrainee",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "title": {
+                                                        "stringValue": "Sales and Brand Activation Manager",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "hr@dczambia.com",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "DotComZambia-SalesandBrandActivationManager",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Dot Com Zambia",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "Job DescriptionOverview / Job DescriptionBook Now Zambia Ltd – A...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Dot Com Zambia- Sales and Brand Activation Manager",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "email": {
+                                                        "stringValue": "https://www.enchito.co.zm/careers/job-infor/182",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Assistant Lab Technician",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Eastern Tropical Fruits Ltd",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Eastern Tropical Fruits Ltd- Assistant Lab Technician",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "EasternTropicalFruitsLtd-AssistantLabTechnician",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "Job DescriptionEastern Tropical Fruits Limited (“ETF” or the “Company”) is...",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "company": {
+                                                        "stringValue": "Eastern Tropical Fruits Ltd",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "Job DescriptionEastern Tropical Fruits Ltd (“ETF” or the “Company”) is...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "https://www.enchito.co.zm/careers/job-infor/183",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Assistant Reverse Osmosis Operator",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "EasternTropicalFruitsLtd-AssistantReverseOsmosisOperator",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Eastern Tropical Fruits Ltd- Assistant Reverse Osmosis Operator",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "title": {
+                                                        "stringValue": "Bottling Foreman",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "EasternTropicalFruitsLtd-BottlingForeman",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Eastern Tropical Fruits Ltd",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Eastern Tropical Fruits Ltd- Bottling Foreman",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "https://www.enchito.co.zm/careers/job-infor/180",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "Job DescriptionEastern Tropical Fruits Limited (“ETF” or the “Company”) is...",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "id": {
+                                                        "stringValue": "EasternTropicalFruitsLtd-CommercialManager",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Eastern Tropical Fruits Ltd",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Commercial Manager",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "Job DescriptionEastern Tropical Fruits Ltd (“ETF” or the “Company”) is...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "https://www.enchito.co.zm/careers/job-infor/179",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Eastern Tropical Fruits Ltd- Commercial Manager",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "email": {
+                                                        "stringValue": "https://www.enchito.co.zm/careers/job-infor/184",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "EasternTropicalFruitsLtd-Electrician",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "Eastern Tropical Fruits Ltd (“ETF” or the “Company”) is a...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Eastern Tropical Fruits Ltd",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Eastern Tropical Fruits Ltd- Electrician",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Electrician",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "email": {
+                                                        "stringValue": "https://www.enchito.co.zm/careers/job-infor/185",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Eastern Tropical Fruits Ltd",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "Job DescriptionEastern Tropical Fruits Ltd (“ETF” or the “Company”) is...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Instrumentation Officer",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "EasternTropicalFruitsLtd-InstrumentationOfficer",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Eastern Tropical Fruits Ltd- Instrumentation Officer",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "Eastern Tropical Fruits Ltd- Juice Filling Line Operator",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "EasternTropicalFruitsLtd-JuiceFillingLineOperator",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "Job DescriptionEastern Tropical Fruits Ltd (“ETF” or the “Company”) is...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Juice Filling Line Operator",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "https://www.enchito.co.zm/careers/job-infor/186",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Eastern Tropical Fruits Ltd",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "id": {
+                                                        "stringValue": "EasternTropicalFruitsLtd-OperationsManager",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "https://www.enchito.co.zm/careers/job-infor/179",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Operations Manager",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Eastern Tropical Fruits Ltd",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "Eastern Tropical Fruits Ltd (“ETF” or the “Company”) is a...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Eastern Tropical Fruits Ltd- Operations Manager",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "excerpt": {
+                                                        "stringValue": "Job DescriptionEastern Tropical Fruits Ltd (“ETF” or the “Company”) is...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Safety and Health Officer",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "EasternTropicalFruitsLtd-SafetyandHealthOfficer",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "https://www.enchito.co.zm/careers/job-infor/178",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Eastern Tropical Fruits Ltd",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Eastern Tropical Fruits Ltd- Safety and Health Officer",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "company": {
+                                                        "stringValue": "FINCA Zambia",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "ZM_HR@finca.co.zm",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Payment and Reconciliations Officer ",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "FINCA Zambia- Payment and Reconciliations Officer ",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "FINCA is an International Microfinance Organization operating in 18 Countries...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "FINCAZambia-PaymentandReconciliationsOfficer",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "title": {
+                                                        "stringValue": "Enhanced Due Diligence Officer",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "FirstNationalBankZambiaLtd(FNB)-EnhancedDueDiligenceOfficer",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "First National Bank Zambia Ltd (FNB)- Enhanced Due Diligence Officer",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "PurposeTo manage financial crime risk thus ensuring the bank can...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "https://www.firstrandjobs.mobi/Jobs/Detail?refNumber=IRC228722",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "First National Bank Zambia Ltd (FNB)",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "excerpt": {
+                                                        "stringValue": "At First Quantum, we free the talent of our people...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "First Quantum Minerals Ltd",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Junior Hydrogeologist",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "First Quantum Minerals Ltd- Junior Hydrogeologist",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "https://firstquantumcareers.com/junior-hydrogeologist/?location=Solwezi",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "FirstQuantumMineralsLtd-JuniorHydrogeologist",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "company": {
+                                                        "stringValue": "First Quantum Minerals Ltd",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "At First Quantum, we free the talent of our people...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "FirstQuantumMineralsLtd-Mechanic",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "https://firstquantum.wd3.myworkdayjobs.com/en-US/First_Quantum_Careers/job/Kalumbila/Mechanic_JR7295",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "First Quantum Minerals Ltd- Mechanic",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Mechanic",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "Jabu Technologies Zambia- City Manager",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "JabuTechnologiesZambia-CityManager",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Jabu Technologies Zambia",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "What’s JABU?JABU is a B2B e-commerce & distribution marketplace, offering...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "City Manager",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "https://jabu.breezy.hr/p/5590ca2e7da901-kitwe-city-manager",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "title": {
+                                                        "stringValue": "Personal Assistant to CEO",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Juba Transport Ltd",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "JubaTransportLtd-PersonalAssistanttoCEO",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "We are looking for a qualified candidate to fill the...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Juba Transport Ltd- Personal Assistant to CEO",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "recruitment@jubatransport.co.zm.",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "id": {
+                                                        "stringValue": "LusakaWaterSupplyandSanitationCompanyLtd-ManagerHumanResourcesandAdministration",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Lusaka Water Supply and Sanitation Company Ltd",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "Bizbwana",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Manager Human Resources and Administration",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Lusaka Water Supply and Sanitation Company Ltd- Manager Human Resources and Administration",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "The Mission of the Lusaka Water Supply and Sanitation Company...",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "company": {
+                                                        "stringValue": "Nathan Associates Inc",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Health Care Financing Advisor (short-term)",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "Bizbwana",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Nathan Associates Inc- Health Care Financing Advisor (short-term)",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "Business Line and Group: International Development, Economic Policy and Governance...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "NathanAssociatesInc-HealthCareFinancingAdvisor(short-term)",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "email": {
+                                                        "stringValue": "jobs@nmc.co.zm",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "NationalMillingCorporationLtd-ProductionManager",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Production Manager",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "National Milling Corporation Ltd",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "National Milling Corporation Limited, is a reputable multinational milling company...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "National Milling Corporation Ltd- Production Manager",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "title": {
+                                                        "stringValue": "Health & Safety Officer",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "PicknPayZambiaLtd-Health&SafetyOfficer",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Pick n Pay Zambia Ltd",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Pick n Pay Zambia Ltd- Health & Safety Officer",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "Job DescriptionPick n Pay is looking for a strong dynamic...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "zambiaRecruitment@pnp.co.za",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "Right to Care Zambia- Risk and Compliance Manager",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Right to Care Zambia",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "Right to Care is at the vanguard in supporting and...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "https://www.devex.com/organizations/right-to-care-44075",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "RighttoCareZambia-RiskandComplianceManager",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Risk and Compliance Manager",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "email": {
+                                                        "stringValue": "http://ow.ly/F4kC50KqU3p",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Customer Service Manager - Supply Chain",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "Syngenta Zambia are seeking a Customer Service Manager - Supply...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "SyngentaZambia-CustomerServiceManager-SupplyChain",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Syngenta Zambia- Customer Service Manager - Supply Chain",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Syngenta Zambia",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "Tandiza Zambia Finance Ltd- Digital Marketing Officer",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Tandiza Zambia Finance Ltd",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "Reports To: Head of Sales, Marketing and Client ServiceRole: Responsible...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Digital Marketing Officer",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "Bizbwana",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "TandizaZambiaFinanceLtd-DigitalMarketingOfficer",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "excerpt": {
+                                                        "stringValue": "Reports to: Head of Credit CollectionsRole: We are searching for...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Tandiza Zambia Finance Ltd",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Loans and Credit Collections Officer ",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Tandiza Zambia Finance Ltd- Loans and Credit Collections Officer ",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "TandizaZambiaFinanceLtd-LoansandCreditCollectionsOfficer",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "tandiza@tandizazambia.com",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "id": {
+                                                        "stringValue": "TandizaZambiaFinanceLtd-SalesandMarketingOfficer",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "Reports to: Head of Sales, Marketing, and Client ServiceRole: Responsible...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Tandiza Zambia Finance Ltd- Sales and Marketing Officer",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "tandiza@tandizazambia.com",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Sales and Marketing Officer",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Tandiza Zambia Finance Ltd",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "excerpt": {
+                                                        "stringValue": "The advertiser is a reputable company in the energy sector...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "TheAdvertiser-AssistantProcurementOfficer",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "The Advertiser- Assistant Procurement Officer",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "The Advertiser",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Assistant Procurement Officer",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "Plot 10819, Off Lake Road, Woodlands, Lusaka",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "email": {
+                                                        "stringValue": "careers.zambia@ubagroup.com ",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Credit Risk Monitoring Officer",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "Essential Information:To emphasize and protect high credit quality while encouraging...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "United Bank for Africa Zambia Ltd (UBA)- Credit Risk Monitoring Officer",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "United Bank for Africa Zambia Ltd (UBA)",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "UnitedBankforAfricaZambiaLtd(UBA)-CreditRiskMonitoringOfficer",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "WaterAid Zambia- Business Development Coordinator",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "WaterAidZambia-BusinessDevelopmentCoordinator",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "WaterAid Zambia",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "https://jobs.wateraid.org/en-GB/job/business-development-coordinator/J3Q00Q7539RC2NZ8Q6N",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "Want to use your fundraising, research and communication skills to...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Business Development Coordinator",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "id": {
+                                                        "stringValue": "Yalelo-GroupLegalCounsel",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Yalelo- Group Legal Counsel ",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "careers@firstwave.ag",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "Yalelo",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "title": {
+                                                        "stringValue": "Group Legal Counsel ",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "Yalelo Zambia is part of the FirstWave Group of companies....",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "title": {
+                                                        "stringValue": "Sale and Marketing Executive x3",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "ZAMNET Communication Systems- Sale and Marketing Executive x3",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "excerpt": {
+                                                        "stringValue": "ZAMNET Communication Systems Limited is an Internet Service Provider offering...",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "email": {
+                                                        "stringValue": "admin@jobsavailable.com.zm",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "id": {
+                                                        "stringValue": "ZAMNETCommunicationSystems-SaleandMarketingExecutivex3",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "company": {
+                                                        "stringValue": "ZAMNET Communication Systems",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        }
+                                    ]
+                                },
+                                "kind": "listValue"
+                            },
+                            "type": {
+                                "stringValue": "jobs",
+                                "kind": "stringValue"
+                            }
+                        }
+                    },
+                    "message": "payload"
+                }
+            ],
+            "outputContexts": [
+                {
+                    "name": "projects/small-talk-5315f/agent/sessions/260979046745@c.us/contexts/onjobs",
+                    "lifespanCount": 20,
+                    "parameters": {
+                        "fields": {
+                            "verbsandadjectives.original": {
+                                "stringValue": "",
+                                "kind": "stringValue"
+                            },
+                            "tasks": {
+                                "stringValue": "",
+                                "kind": "stringValue"
+                            },
+                            "services": {
+                                "stringValue": "Jobs",
+                                "kind": "stringValue"
+                            },
+                            "tasks.original": {
+                                "stringValue": "",
+                                "kind": "stringValue"
+                            },
+                            "services.original": {
+                                "stringValue": "Looking For A Job",
+                                "kind": "stringValue"
+                            },
+                            "verbsandadjectives": {
+                                "stringValue": "",
+                                "kind": "stringValue"
+                            }
+                        }
+                    }
+                }
+            ],
+            "queryText": "Looking For A Job",
+            "speechRecognitionConfidence": 0,
+            "action": "",
+            "parameters": {
+                "fields": {
+                    "services": {
+                        "stringValue": "Jobs",
+                        "kind": "stringValue"
+                    },
+                    "tasks": {
+                        "stringValue": "",
+                        "kind": "stringValue"
+                    },
+                    "verbsandadjectives": {
+                        "stringValue": "",
+                        "kind": "stringValue"
+                    }
+                }
+            },
+            "allRequiredParamsPresent": true,
+            "fulfillmentText": "",
+            "webhookSource": "",
+            "webhookPayload": {
+                "fields": {
+                    "jobs": {
+                        "listValue": {
+                            "values": [
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "title": {
+                                                "stringValue": "Digital Technology Graduate Trainees",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "https://www.airtel.co.zm/career_position",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Airtel Zambia- Digital Technology Graduate Trainees",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "Airtel Zambia",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "Airtel is looking for high-achieving graduates to join us in...",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "AirtelZambia-DigitalTechnologyGraduateTrainees",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "id": {
+                                                "stringValue": "CivilServiceCommission-Zambia-ExecutiveSecretary",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "Job DescriptionCIVIL SERVICE COMMISSIONP.O. Box 50138LUSAKACSC/53/1/54Date: 23 August, 2022CIVIL SERVICE...",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Executive Secretary",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Civil Service Commission - Zambia- Executive Secretary",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "Civil Service Commission - Zambia",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "Bizbwana",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "title": {
+                                                "stringValue": "Commercial Graduate Trainee",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "Coca-ColaBeveragesZambia-CommercialGraduateTrainee",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Coca-Cola Beverages Zambia- Commercial Graduate Trainee",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "https://ccba.erecruit.co/candidateapp/Jobs/View/CCB220824-1",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "Coca-Cola Beverages Zambia",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "Job DescriptionCoca-Cola Beverages Zambia represents the world’s most cherished trademark...",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "company": {
+                                                "stringValue": "Dot Com Zambia",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Sales and Brand Activation Manager",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "DotComZambia-SalesandBrandActivationManager",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "hr@dczambia.com",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "Job DescriptionOverview / Job DescriptionBook Now Zambia Ltd – A...",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Dot Com Zambia- Sales and Brand Activation Manager",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "id": {
+                                                "stringValue": "EasternTropicalFruitsLtd-AssistantLabTechnician",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "Eastern Tropical Fruits Ltd",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "Job DescriptionEastern Tropical Fruits Limited (“ETF” or the “Company”) is...",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "https://www.enchito.co.zm/careers/job-infor/182",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Assistant Lab Technician",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Eastern Tropical Fruits Ltd- Assistant Lab Technician",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "title": {
+                                                "stringValue": "Assistant Reverse Osmosis Operator",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "https://www.enchito.co.zm/careers/job-infor/183",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Eastern Tropical Fruits Ltd- Assistant Reverse Osmosis Operator",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "Job DescriptionEastern Tropical Fruits Ltd (“ETF” or the “Company”) is...",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "EasternTropicalFruitsLtd-AssistantReverseOsmosisOperator",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "Eastern Tropical Fruits Ltd",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "email": {
+                                                "stringValue": "https://www.enchito.co.zm/careers/job-infor/180",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Eastern Tropical Fruits Ltd- Bottling Foreman",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "Eastern Tropical Fruits Ltd",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Bottling Foreman",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "Job DescriptionEastern Tropical Fruits Limited (“ETF” or the “Company”) is...",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "EasternTropicalFruitsLtd-BottlingForeman",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "excerpt": {
+                                                "stringValue": "Job DescriptionEastern Tropical Fruits Ltd (“ETF” or the “Company”) is...",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Eastern Tropical Fruits Ltd- Commercial Manager",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "EasternTropicalFruitsLtd-CommercialManager",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "Eastern Tropical Fruits Ltd",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "https://www.enchito.co.zm/careers/job-infor/179",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Commercial Manager",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "company": {
+                                                "stringValue": "Eastern Tropical Fruits Ltd",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Eastern Tropical Fruits Ltd- Electrician",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "Eastern Tropical Fruits Ltd (“ETF” or the “Company”) is a...",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "EasternTropicalFruitsLtd-Electrician",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "https://www.enchito.co.zm/careers/job-infor/184",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Electrician",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "company": {
+                                                "stringValue": "Eastern Tropical Fruits Ltd",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Instrumentation Officer",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Eastern Tropical Fruits Ltd- Instrumentation Officer",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "https://www.enchito.co.zm/careers/job-infor/185",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "EasternTropicalFruitsLtd-InstrumentationOfficer",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "Job DescriptionEastern Tropical Fruits Ltd (“ETF” or the “Company”) is...",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "Eastern Tropical Fruits Ltd- Juice Filling Line Operator",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "EasternTropicalFruitsLtd-JuiceFillingLineOperator",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Juice Filling Line Operator",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "https://www.enchito.co.zm/careers/job-infor/186",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "Eastern Tropical Fruits Ltd",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "Job DescriptionEastern Tropical Fruits Ltd (“ETF” or the “Company”) is...",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "email": {
+                                                "stringValue": "https://www.enchito.co.zm/careers/job-infor/179",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "Eastern Tropical Fruits Ltd (“ETF” or the “Company”) is a...",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "Eastern Tropical Fruits Ltd",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Operations Manager",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "EasternTropicalFruitsLtd-OperationsManager",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Eastern Tropical Fruits Ltd- Operations Manager",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "email": {
+                                                "stringValue": "https://www.enchito.co.zm/careers/job-infor/178",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Safety and Health Officer",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Eastern Tropical Fruits Ltd- Safety and Health Officer",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "Job DescriptionEastern Tropical Fruits Ltd (“ETF” or the “Company”) is...",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "EasternTropicalFruitsLtd-SafetyandHealthOfficer",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "Eastern Tropical Fruits Ltd",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "id": {
+                                                "stringValue": "FINCAZambia-PaymentandReconciliationsOfficer",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "FINCA Zambia- Payment and Reconciliations Officer ",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Payment and Reconciliations Officer ",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "ZM_HR@finca.co.zm",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "FINCA Zambia",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "FINCA is an International Microfinance Organization operating in 18 Countries...",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "id": {
+                                                "stringValue": "FirstNationalBankZambiaLtd(FNB)-EnhancedDueDiligenceOfficer",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "First National Bank Zambia Ltd (FNB)- Enhanced Due Diligence Officer",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "PurposeTo manage financial crime risk thus ensuring the bank can...",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "First National Bank Zambia Ltd (FNB)",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Enhanced Due Diligence Officer",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "https://www.firstrandjobs.mobi/Jobs/Detail?refNumber=IRC228722",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "excerpt": {
+                                                "stringValue": "At First Quantum, we free the talent of our people...",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "FirstQuantumMineralsLtd-JuniorHydrogeologist",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "First Quantum Minerals Ltd",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "First Quantum Minerals Ltd- Junior Hydrogeologist",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Junior Hydrogeologist",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "https://firstquantumcareers.com/junior-hydrogeologist/?location=Solwezi",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "excerpt": {
+                                                "stringValue": "At First Quantum, we free the talent of our people...",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "https://firstquantum.wd3.myworkdayjobs.com/en-US/First_Quantum_Careers/job/Kalumbila/Mechanic_JR7295",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "FirstQuantumMineralsLtd-Mechanic",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "First Quantum Minerals Ltd- Mechanic",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Mechanic",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "First Quantum Minerals Ltd",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "email": {
+                                                "stringValue": "https://jabu.breezy.hr/p/5590ca2e7da901-kitwe-city-manager",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "JabuTechnologiesZambia-CityManager",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "Jabu Technologies Zambia",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Jabu Technologies Zambia- City Manager",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "City Manager",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "What’s JABU?JABU is a B2B e-commerce & distribution marketplace, offering...",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "id": {
+                                                "stringValue": "JubaTransportLtd-PersonalAssistanttoCEO",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Juba Transport Ltd- Personal Assistant to CEO",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "recruitment@jubatransport.co.zm.",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "Juba Transport Ltd",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Personal Assistant to CEO",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "We are looking for a qualified candidate to fill the...",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "excerpt": {
+                                                "stringValue": "The Mission of the Lusaka Water Supply and Sanitation Company...",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Lusaka Water Supply and Sanitation Company Ltd- Manager Human Resources and Administration",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "Lusaka Water Supply and Sanitation Company Ltd",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "LusakaWaterSupplyandSanitationCompanyLtd-ManagerHumanResourcesandAdministration",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "Bizbwana",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Manager Human Resources and Administration",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "company": {
+                                                "stringValue": "Nathan Associates Inc",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "NathanAssociatesInc-HealthCareFinancingAdvisor(short-term)",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "Bizbwana",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "Business Line and Group: International Development, Economic Policy and Governance...",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Health Care Financing Advisor (short-term)",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Nathan Associates Inc- Health Care Financing Advisor (short-term)",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "email": {
+                                                "stringValue": "jobs@nmc.co.zm",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Production Manager",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "National Milling Corporation Limited, is a reputable multinational milling company...",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "NationalMillingCorporationLtd-ProductionManager",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "National Milling Corporation Ltd- Production Manager",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "National Milling Corporation Ltd",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "Pick n Pay Zambia Ltd- Health & Safety Officer",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "Pick n Pay Zambia Ltd",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "Job DescriptionPick n Pay is looking for a strong dynamic...",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Health & Safety Officer",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "PicknPayZambiaLtd-Health&SafetyOfficer",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "zambiaRecruitment@pnp.co.za",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "title": {
+                                                "stringValue": "Risk and Compliance Manager",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "Right to Care Zambia",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Right to Care Zambia- Risk and Compliance Manager",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "RighttoCareZambia-RiskandComplianceManager",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "https://www.devex.com/organizations/right-to-care-44075",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "Right to Care is at the vanguard in supporting and...",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "company": {
+                                                "stringValue": "Syngenta Zambia",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Customer Service Manager - Supply Chain",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "SyngentaZambia-CustomerServiceManager-SupplyChain",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "Syngenta Zambia are seeking a Customer Service Manager - Supply...",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "http://ow.ly/F4kC50KqU3p",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Syngenta Zambia- Customer Service Manager - Supply Chain",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "email": {
+                                                "stringValue": "Bizbwana",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Tandiza Zambia Finance Ltd- Digital Marketing Officer",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Digital Marketing Officer",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "TandizaZambiaFinanceLtd-DigitalMarketingOfficer",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "Reports To: Head of Sales, Marketing and Client ServiceRole: Responsible...",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "Tandiza Zambia Finance Ltd",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "Tandiza Zambia Finance Ltd- Loans and Credit Collections Officer ",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "tandiza@tandizazambia.com",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "TandizaZambiaFinanceLtd-LoansandCreditCollectionsOfficer",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "Tandiza Zambia Finance Ltd",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "Reports to: Head of Credit CollectionsRole: We are searching for...",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Loans and Credit Collections Officer ",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "email": {
+                                                "stringValue": "tandiza@tandizazambia.com",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Tandiza Zambia Finance Ltd- Sales and Marketing Officer",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "TandizaZambiaFinanceLtd-SalesandMarketingOfficer",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "Tandiza Zambia Finance Ltd",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Sales and Marketing Officer",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "Reports to: Head of Sales, Marketing, and Client ServiceRole: Responsible...",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "email": {
+                                                "stringValue": "Plot 10819, Off Lake Road, Woodlands, Lusaka",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "TheAdvertiser-AssistantProcurementOfficer",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Assistant Procurement Officer",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "The Advertiser- Assistant Procurement Officer",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "The Advertiser",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "The advertiser is a reputable company in the energy sector...",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "United Bank for Africa Zambia Ltd (UBA)- Credit Risk Monitoring Officer",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "careers.zambia@ubagroup.com ",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "UnitedBankforAfricaZambiaLtd(UBA)-CreditRiskMonitoringOfficer",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Credit Risk Monitoring Officer",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "United Bank for Africa Zambia Ltd (UBA)",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "Essential Information:To emphasize and protect high credit quality while encouraging...",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "WaterAid Zambia- Business Development Coordinator",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Business Development Coordinator",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "WaterAid Zambia",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "https://jobs.wateraid.org/en-GB/job/business-development-coordinator/J3Q00Q7539RC2NZ8Q6N",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "WaterAidZambia-BusinessDevelopmentCoordinator",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "Want to use your fundraising, research and communication skills to...",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "excerpt": {
+                                                "stringValue": "Yalelo Zambia is part of the FirstWave Group of companies....",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "careers@firstwave.ag",
+                                                "kind": "stringValue"
+                                            },
+                                            "id": {
+                                                "stringValue": "Yalelo-GroupLegalCounsel",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "Yalelo",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Group Legal Counsel ",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Yalelo- Group Legal Counsel ",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "id": {
+                                                "stringValue": "ZAMNETCommunicationSystems-SaleandMarketingExecutivex3",
+                                                "kind": "stringValue"
+                                            },
+                                            "excerpt": {
+                                                "stringValue": "ZAMNET Communication Systems Limited is an Internet Service Provider offering...",
+                                                "kind": "stringValue"
+                                            },
+                                            "title": {
+                                                "stringValue": "Sale and Marketing Executive x3",
+                                                "kind": "stringValue"
+                                            },
+                                            "email": {
+                                                "stringValue": "admin@jobsavailable.com.zm",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "ZAMNET Communication Systems- Sale and Marketing Executive x3",
+                                                "kind": "stringValue"
+                                            },
+                                            "company": {
+                                                "stringValue": "ZAMNET Communication Systems",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                }
+                            ]
+                        },
+                        "kind": "listValue"
+                    },
+                    "type": {
+                        "stringValue": "jobs",
+                        "kind": "stringValue"
+                    }
+                }
+            },
+            "intent": {
+                "inputContextNames": [],
+                "events": [],
+                "trainingPhrases": [],
+                "outputContexts": [],
+                "parameters": [],
+                "messages": [],
+                "defaultResponsePlatforms": [],
+                "followupIntentInfo": [],
+                "name": "projects/small-talk-5315f/agent/intents/64adc223-acc5-41ef-995c-32ff2568d802",
+                "displayName": "services",
+                "priority": 0,
+                "isFallback": false,
+                "webhookState": "WEBHOOK_STATE_UNSPECIFIED",
+                "action": "",
+                "resetContexts": false,
+                "rootFollowupIntentName": "",
+                "parentFollowupIntentName": "",
+                "mlDisabled": false,
+                "liveAgentHandoff": false,
+                "endInteraction": false
+            },
+            "intentDetectionConfidence": 1,
+            "diagnosticInfo": {
+                "fields": {
+                    "webhook_latency_ms": {
+                        "numberValue": 431,
+                        "kind": "numberValue"
+                    }
+                }
+            },
+            "languageCode": "en",
+            "sentimentAnalysisResult": null,
+            "cancelsSlotFilling": false
+        },
+        "webhookStatus": {
+            "details": [],
+            "code": 0,
+            "message": "Webhook execution successful"
+        },
+        "outputAudio": {
+            "type": "Buffer",
+            "data": []
+        },
+        "outputAudioConfig": {
+            "audioEncoding": "OUTPUT_AUDIO_ENCODING_LINEAR_16",
+            "sampleRateHertz": 0,
+            "synthesizeSpeechConfig": {
+                "effectsProfileId": [],
+                "speakingRate": 1,
+                "pitch": 0,
+                "volumeGainDb": 0,
+                "voice": {
+                    "name": "",
+                    "ssmlGender": "SSML_VOICE_GENDER_UNSPECIFIED"
+                }
+            }
+        }
+    },
+    null,
+    null
+]

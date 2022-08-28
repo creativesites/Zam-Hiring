@@ -1,0 +1,106 @@
+[
+    {
+        "responseId": "6c774ebc-eb06-4d82-9767-5706f0f8a68c-0cab8cdb",
+        "queryResult": {
+            "fulfillmentMessages": [
+                {
+                    "platform": "PLATFORM_UNSPECIFIED",
+                    "payload": {
+                        "fields": {
+                            "txt": {
+                                "stringValue": "👋 Welcome to *Digital Code Bot*, your personal Artificial Intelligence Assistant to help you pass Grade 12 or on your Job Search! Before we get started, what is your first name?",
+                                "kind": "stringValue"
+                            },
+                            "video": {
+                                "stringValue": "https://firebasestorage.googleapis.com/v0/b/small-talk-5315f.appspot.com/o/dc%20video.mp4?alt=media&token=817a990a-1536-478a-ad17-023a3c01fa2c",
+                                "kind": "stringValue"
+                            }
+                        }
+                    },
+                    "message": "payload"
+                }
+            ],
+            "outputContexts": [],
+            "queryText": "Hi",
+            "speechRecognitionConfidence": 0,
+            "action": "input.welcome",
+            "parameters": {
+                "fields": {}
+            },
+            "allRequiredParamsPresent": true,
+            "fulfillmentText": "Good day! What can I do for you today?",
+            "webhookSource": "",
+            "webhookPayload": {
+                "fields": {
+                    "video": {
+                        "stringValue": "https://firebasestorage.googleapis.com/v0/b/small-talk-5315f.appspot.com/o/dc%20video.mp4?alt=media&token=817a990a-1536-478a-ad17-023a3c01fa2c",
+                        "kind": "stringValue"
+                    },
+                    "txt": {
+                        "stringValue": "👋 Welcome to *Digital Code Bot*, your personal Artificial Intelligence Assistant to help you pass Grade 12 or on your Job Search! Before we get started, what is your first name?",
+                        "kind": "stringValue"
+                    }
+                }
+            },
+            "intent": {
+                "inputContextNames": [],
+                "events": [],
+                "trainingPhrases": [],
+                "outputContexts": [],
+                "parameters": [],
+                "messages": [],
+                "defaultResponsePlatforms": [],
+                "followupIntentInfo": [],
+                "name": "projects/small-talk-5315f/agent/intents/7a94cc0e-45a3-4a66-aa09-3d2ac5edc8ca",
+                "displayName": "Default Welcome Intent",
+                "priority": 0,
+                "isFallback": false,
+                "webhookState": "WEBHOOK_STATE_UNSPECIFIED",
+                "action": "",
+                "resetContexts": false,
+                "rootFollowupIntentName": "",
+                "parentFollowupIntentName": "",
+                "mlDisabled": false,
+                "liveAgentHandoff": false,
+                "endInteraction": false
+            },
+            "intentDetectionConfidence": 1,
+            "diagnosticInfo": {
+                "fields": {
+                    "webhook_latency_ms": {
+                        "numberValue": 3697,
+                        "kind": "numberValue"
+                    }
+                }
+            },
+            "languageCode": "en",
+            "sentimentAnalysisResult": null,
+            "cancelsSlotFilling": false
+        },
+        "webhookStatus": {
+            "details": [],
+            "code": 0,
+            "message": "Webhook execution successful"
+        },
+        "outputAudio": {
+            "type": "Buffer",
+            "data": []
+        },
+        "outputAudioConfig": {
+            "audioEncoding": "OUTPUT_AUDIO_ENCODING_LINEAR_16",
+            "sampleRateHertz": 0,
+            "synthesizeSpeechConfig": {
+                "effectsProfileId": [],
+                "speakingRate": 1,
+                "pitch": 0,
+                "volumeGainDb": 0,
+                "voice": {
+                    "name": "",
+                    "ssmlGender": "SSML_VOICE_GENDER_UNSPECIFIED"
+                }
+            }
+        }
+    },
+    null,
+    null
+]

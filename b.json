@@ -1,0 +1,196 @@
+[
+    {
+        "responseId": "e3f5c95b-d265-4788-9885-82f0bd1940a8-0cab8cdb",
+        "queryResult": {
+            "fulfillmentMessages": [
+                {
+                    "platform": "PLATFORM_UNSPECIFIED",
+                    "payload": {
+                        "fields": {
+                            "type": {
+                                "stringValue": "buttons",
+                                "kind": "stringValue"
+                            },
+                            "button2": {
+                                "structValue": {
+                                    "fields": {
+                                        "id": {
+                                            "stringValue": "00002",
+                                            "kind": "stringValue"
+                                        },
+                                        "txt": {
+                                            "stringValue": "Looking For A Job",
+                                            "kind": "stringValue"
+                                        }
+                                    }
+                                },
+                                "kind": "structValue"
+                            },
+                            "button1": {
+                                "structValue": {
+                                    "fields": {
+                                        "id": {
+                                            "stringValue": "00001",
+                                            "kind": "stringValue"
+                                        },
+                                        "txt": {
+                                            "stringValue": "Learn",
+                                            "kind": "stringValue"
+                                        }
+                                    }
+                                },
+                                "kind": "structValue"
+                            },
+                            "button3": {
+                                "structValue": {
+                                    "fields": {
+                                        "id": {
+                                            "stringValue": "00003",
+                                            "kind": "stringValue"
+                                        },
+                                        "txt": {
+                                            "stringValue": "Register Or Find Services",
+                                            "kind": "stringValue"
+                                        }
+                                    }
+                                },
+                                "kind": "structValue"
+                            },
+                            "text": {
+                                "stringValue": "Welcome back  \n            How can I help you?\n            _You can also ask me directly what you want.... for example:_\n                                            \n            *I'm looking for a plumber* or\n            *I'm looking for a job* or\n            *I want to learn Maths*                  \n                                            \n            🗣️  _To register your service, type_ *Register*",
+                                "kind": "stringValue"
+                            }
+                        }
+                    },
+                    "message": "payload"
+                }
+            ],
+            "outputContexts": [],
+            "queryText": "Hi",
+            "speechRecognitionConfidence": 0,
+            "action": "input.welcome",
+            "parameters": {
+                "fields": {}
+            },
+            "allRequiredParamsPresent": true,
+            "fulfillmentText": "Hello! How can I help you?",
+            "webhookSource": "",
+            "webhookPayload": {
+                "fields": {
+                    "type": {
+                        "stringValue": "buttons",
+                        "kind": "stringValue"
+                    },
+                    "button3": {
+                        "structValue": {
+                            "fields": {
+                                "id": {
+                                    "stringValue": "00003",
+                                    "kind": "stringValue"
+                                },
+                                "txt": {
+                                    "stringValue": "Register Or Find Services",
+                                    "kind": "stringValue"
+                                }
+                            }
+                        },
+                        "kind": "structValue"
+                    },
+                    "text": {
+                        "stringValue": "Welcome back  \n            How can I help you?\n            _You can also ask me directly what you want.... for example:_\n                                            \n            *I'm looking for a plumber* or\n            *I'm looking for a job* or\n            *I want to learn Maths*                  \n                                            \n            🗣️  _To register your service, type_ *Register*",
+                        "kind": "stringValue"
+                    },
+                    "button1": {
+                        "structValue": {
+                            "fields": {
+                                "id": {
+                                    "stringValue": "00001",
+                                    "kind": "stringValue"
+                                },
+                                "txt": {
+                                    "stringValue": "Learn",
+                                    "kind": "stringValue"
+                                }
+                            }
+                        },
+                        "kind": "structValue"
+                    },
+                    "button2": {
+                        "structValue": {
+                            "fields": {
+                                "id": {
+                                    "stringValue": "00002",
+                                    "kind": "stringValue"
+                                },
+                                "txt": {
+                                    "stringValue": "Looking For A Job",
+                                    "kind": "stringValue"
+                                }
+                            }
+                        },
+                        "kind": "structValue"
+                    }
+                }
+            },
+            "intent": {
+                "inputContextNames": [],
+                "events": [],
+                "trainingPhrases": [],
+                "outputContexts": [],
+                "parameters": [],
+                "messages": [],
+                "defaultResponsePlatforms": [],
+                "followupIntentInfo": [],
+                "name": "projects/small-talk-5315f/agent/intents/7a94cc0e-45a3-4a66-aa09-3d2ac5edc8ca",
+                "displayName": "Default Welcome Intent",
+                "priority": 0,
+                "isFallback": false,
+                "webhookState": "WEBHOOK_STATE_UNSPECIFIED",
+                "action": "",
+                "resetContexts": false,
+                "rootFollowupIntentName": "",
+                "parentFollowupIntentName": "",
+                "mlDisabled": false,
+                "liveAgentHandoff": false,
+                "endInteraction": false
+            },
+            "intentDetectionConfidence": 1,
+            "diagnosticInfo": {
+                "fields": {
+                    "webhook_latency_ms": {
+                        "numberValue": 166,
+                        "kind": "numberValue"
+                    }
+                }
+            },
+            "languageCode": "en",
+            "sentimentAnalysisResult": null,
+            "cancelsSlotFilling": false
+        },
+        "webhookStatus": {
+            "details": [],
+            "code": 0,
+            "message": "Webhook execution successful"
+        },
+        "outputAudio": {
+            "type": "Buffer",
+            "data": []
+        },
+        "outputAudioConfig": {
+            "audioEncoding": "OUTPUT_AUDIO_ENCODING_LINEAR_16",
+            "sampleRateHertz": 0,
+            "synthesizeSpeechConfig": {
+                "effectsProfileId": [],
+                "speakingRate": 1,
+                "pitch": 0,
+                "volumeGainDb": 0,
+                "voice": {
+                    "name": "",
+                    "ssmlGender": "SSML_VOICE_GENDER_UNSPECIFIED"
+                }
+            }
+        }
+    },
+    null,
+    null
+]
