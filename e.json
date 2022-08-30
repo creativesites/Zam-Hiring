@@ -1,0 +1,1553 @@
+[
+    {
+        "responseId": "88ab2b18-e133-48a9-bcfa-9ee35f9a0df4-0cab8cdb",
+        "queryResult": {
+            "fulfillmentMessages": [
+                {
+                    "platform": "PLATFORM_UNSPECIFIED",
+                    "payload": {
+                        "fields": {
+                            "notes": {
+                                "listValue": {
+                                    "values": [
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1J8z1j_Zc6TYAK_x-CfzDW9t9ZCOXm-0t",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Grade 10 to 12 Pamphlet - Understanding Principles of Mathematics",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1mo1ffXpeMt-pxnfAaxPsUVRy-QYG3w6K",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Grade 10 to 12 Maths Study Material & Exam Questions",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "Grade 10 to 12 Maths Notes Compiled with Exam Questions & Answers",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1p0wnyR44KxPW0YR5lg5rRRKPAu9Ofyei",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=18ufjtgABaE5lhyB9zCJ-C1pvJpxCNRYE",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Grade 10 to 12 Mathemtics (Basics)",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=16gLviR20axrR9zFPIXp4gsf0rtb-7Lid",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "Grade 10 to 12 Mathematics Pamphlet (QnA)",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "Grade 10 to 12 Mathematics Revision Pamphlet Vol.1",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1B8xzMsbS7pNQ2t03pop8a3V_fQQVk4Rh",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "Grade 12 Math Pamphlet",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1D5q_1kX1anTobTbSrfpiw-r3bEi7ewo1",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "Quick Revision for Major Topics in Maths Paper 1",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1qT9QXKaKgrW5KqXwIYsaeIHpTW90L_15",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1MmWOcVQfd5AoidPUnW1K5D9jck2FKa9A",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "KDC Exam Questions and Answers (2014 - 2017)",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1rEvCUfp3YzNP7UTir-7KV72Ybs2i5se7",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "KDC Exam Questions and Answers (2016 - 2018)",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "Grade 10 Mathematics Notes",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1LPxO1z5AL_kx_wHT-4NXw-ks4352EBwr",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "Grade 10 Mathematics Textbook",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1cCbzpy4Ko2KiyXHuHHD5trvpz2ZCVlnd",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        }
+                                    ]
+                                },
+                                "kind": "listValue"
+                            },
+                            "tests": {
+                                "listValue": {
+                                    "values": [
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "answer": {
+                                                        "structValue": {
+                                                            "fields": {
+                                                                "name": {
+                                                                    "stringValue": "Answers",
+                                                                    "kind": "stringValue"
+                                                                },
+                                                                "url": {
+                                                                    "stringValue": "https://eskulu.com/senior-secondary/grade-12-past-paper-answers/ecz-mathematics-paper-2-senior-secondary-external-exam-marking-scheme-2020/",
+                                                                    "kind": "stringValue"
+                                                                }
+                                                            }
+                                                        },
+                                                        "kind": "structValue"
+                                                    },
+                                                    "exam": {
+                                                        "structValue": {
+                                                            "fields": {
+                                                                "url": {
+                                                                    "stringValue": "https://drive.google.com/uc?export=download&id=1LPok_SrCy_ZcnrMLqDjqZRfWCNSn4TfV",
+                                                                    "kind": "stringValue"
+                                                                },
+                                                                "name": {
+                                                                    "stringValue": "ECZ Mathematics Paper 2 2020.",
+                                                                    "kind": "stringValue"
+                                                                }
+                                                            }
+                                                        },
+                                                        "kind": "structValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "answer": {
+                                                        "structValue": {
+                                                            "fields": {
+                                                                "url": {
+                                                                    "stringValue": "https://eskulu.com/senior-secondary/grade-12-past-paper-answers/ecz-mathematics-paper-2-gce-senior-secondary-external-exam-marking-scheme-2020/",
+                                                                    "kind": "stringValue"
+                                                                },
+                                                                "name": {
+                                                                    "stringValue": "Answers",
+                                                                    "kind": "stringValue"
+                                                                }
+                                                            }
+                                                        },
+                                                        "kind": "structValue"
+                                                    },
+                                                    "exam": {
+                                                        "structValue": {
+                                                            "fields": {
+                                                                "url": {
+                                                                    "stringValue": "https://drive.google.com/uc?export=download&id=1ALlfmbomV9OZB334rNx2Jvh9CWVGxrLN",
+                                                                    "kind": "stringValue"
+                                                                },
+                                                                "name": {
+                                                                    "stringValue": "ECZ Mathematics Paper 2 2020 GCE.",
+                                                                    "kind": "stringValue"
+                                                                }
+                                                            }
+                                                        },
+                                                        "kind": "structValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1LPok_SrCy_ZcnrMLqDjqZRfWCNSn4TfV",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 2 2020.",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1ALlfmbomV9OZB334rNx2Jvh9CWVGxrLN",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 2 2020 GCE.",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 1 2020 GCE.",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1LQ4zglP9rFgzgjjK5dkMXxQBMS8yG-ZL",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1wVjbdN9fztrjxhONGRX5U6N1OJDAChOi",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 2 2019.",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1x_9E3PaviCuSsqfJqOsQKOwVlCWZ1jqf",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 1 2019.",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1Nz26kYb6ucf7RleYO7RS9YSvfT39YbfE",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 2 2018 GCE.",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 1 2018 GCE.",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1rVoE67huGYYP3OsXo7EI0PaKwVQe14eR",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=17VfByW2qU735eLnjTu4RCNLtnwGbdEKI",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 2 2017.",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 1 2017.",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1r8kY7nvn7kiectHad3DAJvUdUk_nYB4T",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 2 2017 GCE.",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1kFjJqFR_YM3l_rCkVBxq3K-h9uoc9UiO",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 1 2017 GCE.",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1m0XgdP5omvVuM2LKROuPPo3NswnucJ5L",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1yC5X21py5mIgfMCTGDtNUxeGeBqwzyPn",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 2 2016.",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 1 2016.",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=10YeP8WsBNsHNCJj9l06wCFrsaoBGQyUN",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=17CRAgSzCVjDMdT4Cwj0lS-Tiwj7VTt2W",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 2 2016 GCE.",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 1 2016 GCE.",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1y9PJ2wDOg1m9aAbeNolUsokSJhNA67SJ",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=0B0lFc6TrfIg7bFFWSERTb0F1WTA&resourcekey=0-V5N4K8vVQtw_DebtZOKIlA",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 2 2016 specimen.",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1bpLR5UCF6beRnCbC51zkVdpr00Y-7y73",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 2 2015.",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=10hQNODqs_XAd4KpjlO2k_y4dA73zfHlK",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 1 2015.",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1YE7CAMHYb90xuj8ktrNLq6x0h5IhaIHP",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 2 2015 GCE.",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1buPq6annv__wSrCOT1ZWVEbmeV3n-DXu",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 2 2014.",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 1 2014.",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1GX7jjURIuZ7Bij74ODdzHCmZvd76we-q",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1lZD8gYYTDsiPb34X7aYjFju1WJC_fzNH",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 2 2013.",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=15ba4_7atS9Tp7dbqoqVIRwGlVrwft9aG",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 1 2013.",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 2 2012.",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1MkTZssWKxeFJhMgAJlX6PSE5r-jhl4mz",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 1 2012.",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1Akv-ikzyLlf5liLMYoXY53_DdTJUgMXj",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1KXy9B4zGqTJSMMi4PC1cJV5eBcd5bNNN",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 2 2011.",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 1 2011.",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1doxOvyi2Y-bJTrofEqzD8aF6nb7Qu8uC",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 2 2010.",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=12lT5M92PW7z8G1Pghe-a6hhXtZeNblm9",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 1 2010.",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=10hhUetS8gjMPChfmo-WYlXmsCkess6lH",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        },
+                                        {
+                                            "structValue": {
+                                                "fields": {
+                                                    "url": {
+                                                        "stringValue": "https://drive.google.com/uc?export=download&id=1Ma0KFm1yR9bHsCFELa_ulhAWs28tWCk4",
+                                                        "kind": "stringValue"
+                                                    },
+                                                    "name": {
+                                                        "stringValue": "ECZ Mathematics Paper 2 2009.",
+                                                        "kind": "stringValue"
+                                                    }
+                                                }
+                                            },
+                                            "kind": "structValue"
+                                        }
+                                    ]
+                                },
+                                "kind": "listValue"
+                            },
+                            "type": {
+                                "stringValue": "subject",
+                                "kind": "stringValue"
+                            }
+                        }
+                    },
+                    "message": "payload"
+                }
+            ],
+            "outputContexts": [
+                {
+                    "name": "projects/small-talk-5315f/agent/sessions/260979046745@c.us/contexts/mathematics",
+                    "lifespanCount": 20,
+                    "parameters": null
+                }
+            ],
+            "queryText": "I want to learn Maths",
+            "speechRecognitionConfidence": 0,
+            "action": "",
+            "parameters": {
+                "fields": {
+                    "services": {
+                        "stringValue": "Learning",
+                        "kind": "stringValue"
+                    },
+                    "verbsandadjectives": {
+                        "stringValue": "",
+                        "kind": "stringValue"
+                    },
+                    "subjects": {
+                        "stringValue": "Mathematics",
+                        "kind": "stringValue"
+                    }
+                }
+            },
+            "allRequiredParamsPresent": true,
+            "fulfillmentText": "",
+            "webhookSource": "",
+            "webhookPayload": {
+                "fields": {
+                    "type": {
+                        "stringValue": "subject",
+                        "kind": "stringValue"
+                    },
+                    "notes": {
+                        "listValue": {
+                            "values": [
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "Grade 10 to 12 Pamphlet - Understanding Principles of Mathematics",
+                                                "kind": "stringValue"
+                                            },
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1J8z1j_Zc6TYAK_x-CfzDW9t9ZCOXm-0t",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1mo1ffXpeMt-pxnfAaxPsUVRy-QYG3w6K",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Grade 10 to 12 Maths Study Material & Exam Questions",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "Grade 10 to 12 Maths Notes Compiled with Exam Questions & Answers",
+                                                "kind": "stringValue"
+                                            },
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1p0wnyR44KxPW0YR5lg5rRRKPAu9Ofyei",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=18ufjtgABaE5lhyB9zCJ-C1pvJpxCNRYE",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Grade 10 to 12 Mathemtics (Basics)",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "Grade 10 to 12 Mathematics Pamphlet (QnA)",
+                                                "kind": "stringValue"
+                                            },
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=16gLviR20axrR9zFPIXp4gsf0rtb-7Lid",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1B8xzMsbS7pNQ2t03pop8a3V_fQQVk4Rh",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Grade 10 to 12 Mathematics Revision Pamphlet Vol.1",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1D5q_1kX1anTobTbSrfpiw-r3bEi7ewo1",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Grade 12 Math Pamphlet",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1qT9QXKaKgrW5KqXwIYsaeIHpTW90L_15",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "Quick Revision for Major Topics in Maths Paper 1",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1MmWOcVQfd5AoidPUnW1K5D9jck2FKa9A",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "KDC Exam Questions and Answers (2014 - 2017)",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1rEvCUfp3YzNP7UTir-7KV72Ybs2i5se7",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "KDC Exam Questions and Answers (2016 - 2018)",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "Grade 10 Mathematics Notes",
+                                                "kind": "stringValue"
+                                            },
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1LPxO1z5AL_kx_wHT-4NXw-ks4352EBwr",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "Grade 10 Mathematics Textbook",
+                                                "kind": "stringValue"
+                                            },
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1cCbzpy4Ko2KiyXHuHHD5trvpz2ZCVlnd",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                }
+                            ]
+                        },
+                        "kind": "listValue"
+                    },
+                    "tests": {
+                        "listValue": {
+                            "values": [
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "answer": {
+                                                "structValue": {
+                                                    "fields": {
+                                                        "name": {
+                                                            "stringValue": "Answers",
+                                                            "kind": "stringValue"
+                                                        },
+                                                        "url": {
+                                                            "stringValue": "https://eskulu.com/senior-secondary/grade-12-past-paper-answers/ecz-mathematics-paper-2-senior-secondary-external-exam-marking-scheme-2020/",
+                                                            "kind": "stringValue"
+                                                        }
+                                                    }
+                                                },
+                                                "kind": "structValue"
+                                            },
+                                            "exam": {
+                                                "structValue": {
+                                                    "fields": {
+                                                        "name": {
+                                                            "stringValue": "ECZ Mathematics Paper 2 2020.",
+                                                            "kind": "stringValue"
+                                                        },
+                                                        "url": {
+                                                            "stringValue": "https://drive.google.com/uc?export=download&id=1LPok_SrCy_ZcnrMLqDjqZRfWCNSn4TfV",
+                                                            "kind": "stringValue"
+                                                        }
+                                                    }
+                                                },
+                                                "kind": "structValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "answer": {
+                                                "structValue": {
+                                                    "fields": {
+                                                        "url": {
+                                                            "stringValue": "https://eskulu.com/senior-secondary/grade-12-past-paper-answers/ecz-mathematics-paper-2-gce-senior-secondary-external-exam-marking-scheme-2020/",
+                                                            "kind": "stringValue"
+                                                        },
+                                                        "name": {
+                                                            "stringValue": "Answers",
+                                                            "kind": "stringValue"
+                                                        }
+                                                    }
+                                                },
+                                                "kind": "structValue"
+                                            },
+                                            "exam": {
+                                                "structValue": {
+                                                    "fields": {
+                                                        "url": {
+                                                            "stringValue": "https://drive.google.com/uc?export=download&id=1ALlfmbomV9OZB334rNx2Jvh9CWVGxrLN",
+                                                            "kind": "stringValue"
+                                                        },
+                                                        "name": {
+                                                            "stringValue": "ECZ Mathematics Paper 2 2020 GCE.",
+                                                            "kind": "stringValue"
+                                                        }
+                                                    }
+                                                },
+                                                "kind": "structValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1LPok_SrCy_ZcnrMLqDjqZRfWCNSn4TfV",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 2 2020.",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 2 2020 GCE.",
+                                                "kind": "stringValue"
+                                            },
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1ALlfmbomV9OZB334rNx2Jvh9CWVGxrLN",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 1 2020 GCE.",
+                                                "kind": "stringValue"
+                                            },
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1LQ4zglP9rFgzgjjK5dkMXxQBMS8yG-ZL",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 2 2019.",
+                                                "kind": "stringValue"
+                                            },
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1wVjbdN9fztrjxhONGRX5U6N1OJDAChOi",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 1 2019.",
+                                                "kind": "stringValue"
+                                            },
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1x_9E3PaviCuSsqfJqOsQKOwVlCWZ1jqf",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1Nz26kYb6ucf7RleYO7RS9YSvfT39YbfE",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 2 2018 GCE.",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1rVoE67huGYYP3OsXo7EI0PaKwVQe14eR",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 1 2018 GCE.",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 2 2017.",
+                                                "kind": "stringValue"
+                                            },
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=17VfByW2qU735eLnjTu4RCNLtnwGbdEKI",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 1 2017.",
+                                                "kind": "stringValue"
+                                            },
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1r8kY7nvn7kiectHad3DAJvUdUk_nYB4T",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1kFjJqFR_YM3l_rCkVBxq3K-h9uoc9UiO",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 2 2017 GCE.",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1m0XgdP5omvVuM2LKROuPPo3NswnucJ5L",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 1 2017 GCE.",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 2 2016.",
+                                                "kind": "stringValue"
+                                            },
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1yC5X21py5mIgfMCTGDtNUxeGeBqwzyPn",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=10YeP8WsBNsHNCJj9l06wCFrsaoBGQyUN",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 1 2016.",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=17CRAgSzCVjDMdT4Cwj0lS-Tiwj7VTt2W",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 2 2016 GCE.",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 1 2016 GCE.",
+                                                "kind": "stringValue"
+                                            },
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1y9PJ2wDOg1m9aAbeNolUsokSJhNA67SJ",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 2 2016 specimen.",
+                                                "kind": "stringValue"
+                                            },
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=0B0lFc6TrfIg7bFFWSERTb0F1WTA&resourcekey=0-V5N4K8vVQtw_DebtZOKIlA",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 2 2015.",
+                                                "kind": "stringValue"
+                                            },
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1bpLR5UCF6beRnCbC51zkVdpr00Y-7y73",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=10hQNODqs_XAd4KpjlO2k_y4dA73zfHlK",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 1 2015.",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1YE7CAMHYb90xuj8ktrNLq6x0h5IhaIHP",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 2 2015 GCE.",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1buPq6annv__wSrCOT1ZWVEbmeV3n-DXu",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 2 2014.",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 1 2014.",
+                                                "kind": "stringValue"
+                                            },
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1GX7jjURIuZ7Bij74ODdzHCmZvd76we-q",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 2 2013.",
+                                                "kind": "stringValue"
+                                            },
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1lZD8gYYTDsiPb34X7aYjFju1WJC_fzNH",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 1 2013.",
+                                                "kind": "stringValue"
+                                            },
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=15ba4_7atS9Tp7dbqoqVIRwGlVrwft9aG",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 2 2012.",
+                                                "kind": "stringValue"
+                                            },
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1MkTZssWKxeFJhMgAJlX6PSE5r-jhl4mz",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1Akv-ikzyLlf5liLMYoXY53_DdTJUgMXj",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 1 2012.",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 2 2011.",
+                                                "kind": "stringValue"
+                                            },
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1KXy9B4zGqTJSMMi4PC1cJV5eBcd5bNNN",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1doxOvyi2Y-bJTrofEqzD8aF6nb7Qu8uC",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 1 2011.",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 2 2010.",
+                                                "kind": "stringValue"
+                                            },
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=12lT5M92PW7z8G1Pghe-a6hhXtZeNblm9",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=10hhUetS8gjMPChfmo-WYlXmsCkess6lH",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 1 2010.",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                },
+                                {
+                                    "structValue": {
+                                        "fields": {
+                                            "url": {
+                                                "stringValue": "https://drive.google.com/uc?export=download&id=1Ma0KFm1yR9bHsCFELa_ulhAWs28tWCk4",
+                                                "kind": "stringValue"
+                                            },
+                                            "name": {
+                                                "stringValue": "ECZ Mathematics Paper 2 2009.",
+                                                "kind": "stringValue"
+                                            }
+                                        }
+                                    },
+                                    "kind": "structValue"
+                                }
+                            ]
+                        },
+                        "kind": "listValue"
+                    }
+                }
+            },
+            "intent": {
+                "inputContextNames": [],
+                "events": [],
+                "trainingPhrases": [],
+                "outputContexts": [],
+                "parameters": [],
+                "messages": [],
+                "defaultResponsePlatforms": [],
+                "followupIntentInfo": [],
+                "name": "projects/small-talk-5315f/agent/intents/4a5e10b4-8f31-43a7-8a1d-a072b3220663",
+                "displayName": "choose_subject",
+                "priority": 0,
+                "isFallback": false,
+                "webhookState": "WEBHOOK_STATE_UNSPECIFIED",
+                "action": "",
+                "resetContexts": false,
+                "rootFollowupIntentName": "",
+                "parentFollowupIntentName": "",
+                "mlDisabled": false,
+                "liveAgentHandoff": false,
+                "endInteraction": false
+            },
+            "intentDetectionConfidence": 1,
+            "diagnosticInfo": {
+                "fields": {
+                    "webhook_latency_ms": {
+                        "numberValue": 3580,
+                        "kind": "numberValue"
+                    }
+                }
+            },
+            "languageCode": "en",
+            "sentimentAnalysisResult": null,
+            "cancelsSlotFilling": false
+        },
+        "webhookStatus": {
+            "details": [],
+            "code": 0,
+            "message": "Webhook execution successful"
+        },
+        "outputAudio": {
+            "type": "Buffer",
+            "data": []
+        },
+        "outputAudioConfig": {
+            "audioEncoding": "OUTPUT_AUDIO_ENCODING_LINEAR_16",
+            "sampleRateHertz": 0,
+            "synthesizeSpeechConfig": {
+                "effectsProfileId": [],
+                "speakingRate": 1,
+                "pitch": 0,
+                "volumeGainDb": 0,
+                "voice": {
+                    "name": "",
+                    "ssmlGender": "SSML_VOICE_GENDER_UNSPECIFIED"
+                }
+            }
+        }
+    },
+    null,
+    null
+]

@@ -1,0 +1,459 @@
+[
+    {
+        "responseId": "8ceffb9e-7efe-4d37-a584-51c0eda68d3a-0cab8cdb",
+        "queryResult": {
+            "fulfillmentMessages": [
+                {
+                    "platform": "PLATFORM_UNSPECIFIED",
+                    "payload": {
+                        "fields": {
+                            "subjects": {
+                                "listValue": {
+                                    "values": [
+                                        {
+                                            "stringValue": "Additional Mathematics.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Agricultural Science.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Art and Design.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Biology.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Chemistry.(5070)",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Chinese.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Chitonga.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Cinyanja.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Civic Education.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Commerce.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Computer Studies.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Design and Technology.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "English Language.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Fashion and Fabrics.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Food and Nutrition.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "French.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Geography.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Geometrical and Mechanical Drawing.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "History.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Home Management.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Icibemba.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Kiikaonde.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Literature.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Lunda.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Luvale.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Mathematics.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Metal Work.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Musical Arts Education.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Physical Education.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Physics.(5054)",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Principles of Accounts.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Religious Education. (2044)",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Religious Education. (2046)",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Science.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Silozi.",
+                                            "kind": "stringValue"
+                                        },
+                                        {
+                                            "stringValue": "Woodwork.",
+                                            "kind": "stringValue"
+                                        }
+                                    ]
+                                },
+                                "kind": "listValue"
+                            },
+                            "type": {
+                                "stringValue": "subjectList",
+                                "kind": "stringValue"
+                            }
+                        }
+                    },
+                    "message": "payload"
+                }
+            ],
+            "outputContexts": [
+                {
+                    "name": "projects/small-talk-5315f/agent/sessions/260979046745@c.us/contexts/onsubjects",
+                    "lifespanCount": 20,
+                    "parameters": null
+                },
+                {
+                    "name": "projects/small-talk-5315f/agent/sessions/260979046745@c.us/contexts/onjobs",
+                    "lifespanCount": 14,
+                    "parameters": {
+                        "fields": {
+                            "subjects": {
+                                "stringValue": "Mathematics",
+                                "kind": "stringValue"
+                            },
+                            "services": {
+                                "stringValue": "Learning",
+                                "kind": "stringValue"
+                            },
+                            "subjects.original": {
+                                "stringValue": "Maths",
+                                "kind": "stringValue"
+                            },
+                            "tasks.original": {
+                                "stringValue": "",
+                                "kind": "stringValue"
+                            },
+                            "tasks": {
+                                "stringValue": "",
+                                "kind": "stringValue"
+                            },
+                            "verbsandadjectives.original": {
+                                "stringValue": "",
+                                "kind": "stringValue"
+                            },
+                            "verbsandadjectives": {
+                                "stringValue": "",
+                                "kind": "stringValue"
+                            },
+                            "services.original": {
+                                "stringValue": "Learn",
+                                "kind": "stringValue"
+                            }
+                        }
+                    }
+                }
+            ],
+            "queryText": "Learn",
+            "speechRecognitionConfidence": 0,
+            "action": "",
+            "parameters": {
+                "fields": {
+                    "tasks": {
+                        "stringValue": "",
+                        "kind": "stringValue"
+                    },
+                    "verbsandadjectives": {
+                        "stringValue": "",
+                        "kind": "stringValue"
+                    },
+                    "services": {
+                        "stringValue": "Learning",
+                        "kind": "stringValue"
+                    }
+                }
+            },
+            "allRequiredParamsPresent": true,
+            "fulfillmentText": "",
+            "webhookSource": "",
+            "webhookPayload": {
+                "fields": {
+                    "subjects": {
+                        "listValue": {
+                            "values": [
+                                {
+                                    "stringValue": "Additional Mathematics.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Agricultural Science.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Art and Design.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Biology.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Chemistry.(5070)",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Chinese.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Chitonga.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Cinyanja.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Civic Education.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Commerce.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Computer Studies.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Design and Technology.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "English Language.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Fashion and Fabrics.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Food and Nutrition.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "French.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Geography.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Geometrical and Mechanical Drawing.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "History.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Home Management.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Icibemba.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Kiikaonde.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Literature.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Lunda.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Luvale.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Mathematics.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Metal Work.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Musical Arts Education.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Physical Education.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Physics.(5054)",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Principles of Accounts.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Religious Education. (2044)",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Religious Education. (2046)",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Science.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Silozi.",
+                                    "kind": "stringValue"
+                                },
+                                {
+                                    "stringValue": "Woodwork.",
+                                    "kind": "stringValue"
+                                }
+                            ]
+                        },
+                        "kind": "listValue"
+                    },
+                    "type": {
+                        "stringValue": "subjectList",
+                        "kind": "stringValue"
+                    }
+                }
+            },
+            "intent": {
+                "inputContextNames": [],
+                "events": [],
+                "trainingPhrases": [],
+                "outputContexts": [],
+                "parameters": [],
+                "messages": [],
+                "defaultResponsePlatforms": [],
+                "followupIntentInfo": [],
+                "name": "projects/small-talk-5315f/agent/intents/64adc223-acc5-41ef-995c-32ff2568d802",
+                "displayName": "services",
+                "priority": 0,
+                "isFallback": false,
+                "webhookState": "WEBHOOK_STATE_UNSPECIFIED",
+                "action": "",
+                "resetContexts": false,
+                "rootFollowupIntentName": "",
+                "parentFollowupIntentName": "",
+                "mlDisabled": false,
+                "liveAgentHandoff": false,
+                "endInteraction": false
+            },
+            "intentDetectionConfidence": 1,
+            "diagnosticInfo": {
+                "fields": {
+                    "webhook_latency_ms": {
+                        "numberValue": 4071,
+                        "kind": "numberValue"
+                    }
+                }
+            },
+            "languageCode": "en",
+            "sentimentAnalysisResult": null,
+            "cancelsSlotFilling": false
+        },
+        "webhookStatus": {
+            "details": [],
+            "code": 0,
+            "message": "Webhook execution successful"
+        },
+        "outputAudio": {
+            "type": "Buffer",
+            "data": []
+        },
+        "outputAudioConfig": {
+            "audioEncoding": "OUTPUT_AUDIO_ENCODING_LINEAR_16",
+            "sampleRateHertz": 0,
+            "synthesizeSpeechConfig": {
+                "effectsProfileId": [],
+                "speakingRate": 1,
+                "pitch": 0,
+                "volumeGainDb": 0,
+                "voice": {
+                    "name": "",
+                    "ssmlGender": "SSML_VOICE_GENDER_UNSPECIFIED"
+                }
+            }
+        }
+    },
+    null,
+    null
+]

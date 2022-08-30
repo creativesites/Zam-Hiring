@@ -21,6 +21,7 @@
     "@open-wa/wa-automate": "^4.44.5",
     "actions-on-google": "^3.0.0",
     "await-sleep": "^0.0.1",
+    "axios": "^0.27.2",
     "body-parser": "^1.20.0",
     "dialogflow-helper": "^0.0.10",
     "easy-promise-queue": "^0.5.7",
@@ -30,12 +31,15 @@
     "firebase-admin": "^11.0.1",
     "fs": "^0.0.1-security",
     "lodash": "^4.17.21",
+    "mathjs": "^11.1.0",
     "mime-types": "^2.1.35",
     "moment": "^2.29.4",
     "mongoose": "^6.4.4",
+    "newtonmath.js": "^1.0.2",
     "node-schedule": "^2.1.0",
     "p-queue": "^7.2.0",
     "path": "^0.12.7",
-    "simple-async-sleep": "^1.0.2"
+    "simple-async-sleep": "^1.0.2",
+    "simple-statistics": "^7.7.6"
   }
 }
