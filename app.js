@@ -70,6 +70,8 @@ ON_DEATH(async function() {
     authTimeout: 60, //wait only 60 seconds to get a connection with the host account device
     blockCrashLogs: true,
     disableSpins: true,
+    restartOnCrash: start,
+    killProcessOnBrowserClose: true,
     headless: true,
     logConsole: false,
     popup: true,
@@ -271,12 +273,14 @@ ${exp}
     if(state==='UNPAIRED') console.log('LOGGED OUT!!!!')
   });
     client.onMessage(async message => {
-        let serNum = message.from
+        try {
+          let serNum = message.from
         let userNum = serNum.slice(0, -5);
         //await client.sendFileFromUrl(message.from, 'https://drive.google.com/uc?export=download&id=1mo1ffXpeMt-pxnfAaxPsUVRy-QYG3w6K', 'file.pdf', 'test file', viewOnce = true)
         var picked = lodash.filter(availableJobs, { 'name': message.body } );
         let subSel = lodash.filter(subs, { 'name': message.body } );
         //console.log(message.body)
+        if (message.mimetype){}
         if(picked.length > 0){
           let ell = picked[0]
           let cmp = ell.company
@@ -423,10 +427,25 @@ ${dtl}
           }
           
         }
+        } catch (error) {
+          
+        }
       
         
       
     });
+    client.onIncomingCall(async call=>{
+      await client.sendText(call.peerJid._serialized, 'Sorry I cannot accept calls');
+  });
+  client.onAddedToGroup(async(chat)=>{
+    console.log(chat)
+    try {
+      let gid = chat.id
+      await client.leaveGroup(gid)
+    } catch (error) {
+      
+    }
+  })
     
     
   }
